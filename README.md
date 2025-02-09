@@ -1,5 +1,10 @@
 # Biodiversity Insights Dashboard
 
+## shinyapps.io Deployed App  
+[Click here to access the app]((https://chukwudi-ogbuta.shinyapps.io/biodiversity_shiny_app/)
+## AWS Deployed App  
+[Click here to access the app](http://13.60.230.28:3241/)
+
 This Shiny application provides an interactive platform for visualizing and analyzing biodiversity data from various countries. The app allows users to filter data based on country, year, month, scientific name, and vernacular name, while also providing a variety of data visualizations, including maps, bar charts, and line plots.
 
 ### Key Features:
