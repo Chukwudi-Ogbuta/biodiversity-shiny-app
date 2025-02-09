@@ -14,6 +14,20 @@ This Shiny application provides an interactive platform for visualizing and anal
 - **Data Table:** View detailed biodiversity data in a tabular format, with the ability to export to CSV, Excel, and other formats.
 - **Country-Specific Data:** Currently supports Poland, Slovakia, and Lithuania.
 
+  ## Extras
+Below requirements are optional, but I have implemented the following extra assignments:
+### Beautiful UI Skill  
+- Styled the dashboard using **CSS and Sass** to enhance its appearance beyond standard Shiny.  
+### Performance Optimization Skill  
+- Used biodiversity data from **Poland, Slovakia, and Lithuania** to test performance.  
+- Implemented **reactiveVal** for efficient state management.  
+- Applied multiple optimization techniques to improve **app initialization and search speed**.  
+### JavaScript Skill  
+- Added **interactive popups** on the map to display additional species details, including images.  
+### Infrastructure Skill  
+- Deployed the app on both **shinyapps.io** and **AWS** for flexibility and scalability.  
+
+
 ### Libraries Used:
 - `shiny`: For building the web application.
 - `shinydashboard`: For creating a dashboard layout.
