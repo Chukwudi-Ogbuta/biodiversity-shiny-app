@@ -1,7 +1,8 @@
 # Biodiversity Insights Dashboard
 
 ## shinyapps.io Deployed App  
-[Click here to access the app]((https://chukwudi-ogbuta.shinyapps.io/biodiversity_shiny_app/)
+[Click here to access the app](https://chukwudi-ogbuta.shinyapps.io/biodiversity_shiny_app/)
+
 ## AWS Deployed App  
 [Click here to access the app](http://13.60.230.28:3241/)
 
