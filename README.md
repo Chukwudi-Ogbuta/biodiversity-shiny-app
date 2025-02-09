@@ -17,7 +17,7 @@ This Shiny application provides an interactive platform for visualizing and anal
   ## Extras
 Below requirements are optional, but I have implemented the following extra assignments:
 ### Beautiful UI Skill  
-- Styled the dashboard using **CSS and Sass** to enhance its appearance beyond standard Shiny.  
+- Styled the dashboard using **CSS and Sass** to enhance its appearance beyond standard Shiny and added multiple tab [Tab1: Map & Data Tab2: Analysis].  
 ### Performance Optimization Skill  
 - Used biodiversity data from **Poland, Slovakia, and Lithuania** to test performance.  
 - Implemented **reactiveVal** for efficient state management.  
